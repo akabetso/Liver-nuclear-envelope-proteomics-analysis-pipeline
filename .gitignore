@@ -1,6 +1,6 @@
 # Ignore data and results folder
 data/
 jtk/
-non_reprocucible/
+non_reproducible/
 presentation/
 base_results/
