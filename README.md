@@ -1,0 +1,1 @@
+This pipeline describes the analysis workflow from raw abundance values through preprocessing, normalization, and statistical analysis to identify differentially expressed nuclear envelope proteins in liver tissue with functional annotation and pathway enrichment.
