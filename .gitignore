@@ -1,0 +1,6 @@
+# Ignore data and results folder
+data/
+jtk/
+non_reprocucible/
+presentation/
+base_results/
